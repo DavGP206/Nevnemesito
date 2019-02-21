@@ -10,6 +10,9 @@ src="https://img.shields.io/badge/K%C3%89SZ%C3%8DT%C5%90K-BitLlama-7289da.svg?st
   </a><a href="https://github.com/Daaniiieel">
     <img   
 src="https://img.shields.io/badge/K%C3%89SZ%C3%8DT%C5%90K-Daaniiieel-green.svg?style=for-the-badge" data-canonical-src="https://img.shields.io/badge/K%C3%89SZ%C3%8DT%C5%90K-Daaniiieel-green.svg?style=for-the-badge" style="max-width:100%;">
+  </a><a href="https://gist.github.com/TheBitLlama/e814c24909b187d6a2fce13ad09382b6">
+    <img   
+src="https://img.shields.io/badge/DOWNLOAD-Hamarosan-0000ff.svg?style=for-the-badge" data-canonical-src="https://img.shields.io/badge/DOWNLOAD-Hamarosan-0000ff.svg?style=for-the-badge" style="max-width:100%;">
   </a>
 </div>
 
