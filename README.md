@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/423730481293557763/548178720461160478/nevnemesito2000.png" align="center">
+  <img src="https://cdn.discordapp.com/attachments/423730481293557763/548178720461160478/nevnemesito2000.png" align="center" width="500">
   <br>
   <strong><i>A Névnemesítő 2000 a legnagyobb innováció az emberiség történelmében!</i></strong>
   <br>
