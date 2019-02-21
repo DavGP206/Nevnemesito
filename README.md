@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/423730481293557763/548178720461160478/nevnemesito2000.png" align="center" data-canonical-src="https://cdn.discordapp.com/attachments/423730481293557763/548178720461160478/nevnemesito2000.png" style="max-width:100%;" width="100">
+<img src="https://cdn.discordapp.com/attachments/423730481293557763/548178720461160478/nevnemesito2000.png" align="center" data-canonical-src="https://cdn.discordapp.com/attachments/423730481293557763/548178720461160478/nevnemesito2000.png" width="500">
 
 A Névnemesítő 2000 a legnagyobb innováció az emberiség történelmében! Nemesítsd a neved akár most azonnal a Python 3 segítségével!
 
