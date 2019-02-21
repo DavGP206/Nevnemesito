@@ -1,12 +1,15 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/423730481293557763/548178720461160478/nevnemesito2000.png" align="center">
   <br>
-  <bold><i>A Névnemesítő 2000 a legnagyobb innováció az emberiség történelmében!</i></bold>
+  <strong><i>A Névnemesítő 2000 a legnagyobb innováció az emberiség történelmében!</i></strong>
   <br>
   <br>
   <a href="https://github.com/TheBitLlama">
     <img   
 src="https://img.shields.io/badge/K%C3%89SZ%C3%8DT%C5%90K-BitLlama-7289da.svg?style=for-the-badge" data-canonical-src="https://img.shields.io/badge/K%C3%89SZ%C3%8DT%C5%90K-BitLlama-7289da.svg?style=for-the-badge" style="max-width:100%;">
+  </a><a href="https://github.com/Daaniiieel">
+    <img   
+src="https://img.shields.io/badge/K%C3%89SZ%C3%8DT%C5%90K-Daaniiieel-green.svg?style=for-the-badge" data-canonical-src="https://img.shields.io/badge/K%C3%89SZ%C3%8DT%C5%90K-Daaniiieel-green.svg?style=for-the-badge" style="max-width:100%;">
   </a>
 </div>
 
