@@ -27,7 +27,8 @@ meg is kapod a csodálatos, és immáron nemes neved!
 
 ## Szükségletek
 
-• Python 3
+• Python 3 
+
 <a href="https://www.python.org/downloads/">
     <img   
 src="https://img.shields.io/badge/Python%203-let%C3%B6lt%C3%A9s!-7289da.svg?style=for-the-badge" data-canonical-src="https://img.shields.io/badge/Python%203-let%C3%B6lt%C3%A9s!-7289da.svg?style=for-the-badge" style="max-width:100%;">
